@@ -1,3 +1,2 @@
 Plik testowy  repozytorium, HOOAH !
-cndskjndos
-dsadas
+Nowa linijka tekstu zmieniona.
